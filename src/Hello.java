@@ -1,4 +1,8 @@
-
+/**
+ * Completely useless class of useless project
+ * @author Joffrey
+ *
+ */
 public class Hello {
 	public String string;
 	
